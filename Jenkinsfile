@@ -5,6 +5,5 @@ pipeline {
         echo 'This is build stage'
         
       }
-    }
   }
 }
